@@ -1,0 +1,22 @@
+[
+  { "id": "1", "value": "Borahae", "difficulty": "easy" },
+  { "id": "2", "value": "Saranghae", "difficulty": "easy" },
+  { "id": "3", "value": "Fighting", "difficulty": "easy" },
+  { "id": "4", "value": "Oppa", "difficulty": "easy" },
+  { "id": "5", "value": "Unnie", "difficulty": "easy" },
+  { "id": "6", "value": "Daebak", "difficulty": "medium" },
+  { "id": "7", "value": "Aigoo", "difficulty": "medium" },
+  { "id": "8", "value": "Kamsahamnida", "difficulty": "medium" },
+  { "id": "9", "value": "Mianhae", "difficulty": "medium" },
+  { "id": "10", "value": "Jinjja", "difficulty": "medium" },
+  { "id": "11", "value": "Omo", "difficulty": "medium" },
+  { "id": "12", "value": "Arasseo", "difficulty": "medium" },
+  { "id": "13", "value": "Do you know Bangtan?", "difficulty": "medium" },
+  { "id": "14", "value": "I'm your hope, you're my hope", "difficulty": "hard" },
+  { "id": "15", "value": "In my next life, I want to be born as a rock", "difficulty": "hard" },
+  { "id": "16", "value": "What is your dream?", "difficulty": "medium" },
+  { "id": "17", "value": "I'm not a robot", "difficulty": "medium" },
+  { "id": "18", "value": "Hit you with that ddu-du ddu-du du", "difficulty": "medium" },
+  { "id": "19", "value": "Smooth like butter", "difficulty": "easy" },
+  { "id": "20", "value": "Look at you, now look at me", "difficulty": "hard" }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": "1", "value": "Namsan Tower", "difficulty": "easy" },
+  { "id": "2", "value": "Han River", "difficulty": "easy" },
+  { "id": "3", "value": "Gyeongbokgung Palace", "difficulty": "medium" },
+  { "id": "4", "value": "Jeju Island", "difficulty": "medium" },
+  { "id": "5", "value": "Gangnam", "difficulty": "easy" },
+  { "id": "6", "value": "Myeongdong", "difficulty": "medium" },
+  { "id": "7", "value": "Hongdae", "difficulty": "medium" },
+  { "id": "8", "value": "Itaewon", "difficulty": "medium" },
+  { "id": "9", "value": "HYBE Building", "difficulty": "medium" },
+  { "id": "10", "value": "SM Entertainment", "difficulty": "medium" },
+  { "id": "11", "value": "YG Entertainment", "difficulty": "medium" },
+  { "id": "12", "value": "JYP Entertainment", "difficulty": "medium" },
+  { "id": "13", "value": "Banpo Bridge", "difficulty": "hard" },
+  { "id": "14", "value": "Bukchon Hanok Village", "difficulty": "hard" },
+  { "id": "15", "value": "Lotte World", "difficulty": "medium" }
+]

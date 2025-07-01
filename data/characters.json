@@ -1,0 +1,22 @@
+[
+  { "id": "1", "value": "Kim Shin", "difficulty": "medium" },
+  { "id": "2", "value": "Yoon Se-ri", "difficulty": "medium" },
+  { "id": "3", "value": "Ri Jeong-hyeok", "difficulty": "medium" },
+  { "id": "4", "value": "Seong Gi-hun", "difficulty": "easy" },
+  { "id": "5", "value": "Goo Jun-pyo", "difficulty": "medium" },
+  { "id": "6", "value": "Yoo Si-jin", "difficulty": "medium" },
+  { "id": "7", "value": "Kang Mo-yeon", "difficulty": "hard" },
+  { "id": "8", "value": "Moon Gang-tae", "difficulty": "hard" },
+  { "id": "9", "value": "Ko Moon-young", "difficulty": "hard" },
+  { "id": "10", "value": "Duk Sun", "difficulty": "hard" },
+  { "id": "11", "value": "Jung-hwan", "difficulty": "hard" },
+  { "id": "12", "value": "Kim Bok-joo", "difficulty": "medium" },
+  { "id": "13", "value": "Jung Joon-hyung", "difficulty": "hard" },
+  { "id": "14", "value": "Jang Man-wol", "difficulty": "hard" },
+  { "id": "15", "value": "Gu Chan-sung", "difficulty": "hard" },
+  { "id": "16", "value": "Im Ju-kyung", "difficulty": "hard" },
+  { "id": "17", "value": "Lee Su-ho", "difficulty": "hard" },
+  { "id": "18", "value": "Kim Mi-so", "difficulty": "hard" },
+  { "id": "19", "value": "Lee Young-joon", "difficulty": "hard" },
+  { "id": "20", "value": "Crown Prince Lee Gon", "difficulty": "hard" }
+]
