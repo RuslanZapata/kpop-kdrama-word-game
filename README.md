@@ -108,33 +108,33 @@ npm run dev
 ## 📁 Estructura del Proyecto
 
 ```
-├── app/                    # Rutas de la app (Expo Router)
-│   ├── (tabs)/            # Navegación por pestañas
-│   │   ├── index.tsx      # Pantalla de inicio
-│   │   ├── history.tsx    # Historial de juegos
-│   │   └── settings.tsx   # Pantalla de configuración
-│   ├── _layout.tsx        # Layout raíz
-│   ├── game.tsx          # Ruta del juego
-│   └── players.tsx       # Configuración de jugadores
-├── components/            # Componentes reutilizables
-│   ├── Button.tsx        # Componente de botón personalizado
-│   ├── CategoryCard.tsx  # Tarjeta de selección de categoría
-│   ├── GameCard.tsx      # Tarjeta de visualización de palabras
-│   ├── GameControls.tsx  # Botones de acción del juego
-│   ├── ResultsSummary.tsx # Visualización de resultados
-│   ├── ScoreCounter.tsx  # Seguimiento de puntuación
-│   └── Timer.tsx         # Temporizador del juego
-├── constants/            # Constantes de la app
-│   └── theme.ts          # Colores, fuentes, tamaños
-├── data/                 # Datos del juego
-│   ├── categories.ts     # Gestión de categorías
-│   └── *.json           # Archivos de datos de palabras
-├── hooks/                # Hooks personalizados de React
+├── app/                      # Rutas de la app (Expo Router)
+│   ├── (tabs)/               # Navegación por pestañas
+│   │   ├── index.tsx         # Pantalla de inicio
+│   │   ├── history.tsx       # Historial de juegos
+│   │   └── settings.tsx      # Pantalla de configuración
+│   ├── _layout.tsx           # Layout raíz
+│   ├── game.tsx              # Ruta del juego
+│   └── players.tsx           # Configuración de jugadores
+├── components/               # Componentes reutilizables
+│   ├── Button.tsx            # Componente de botón personalizado
+│   ├── CategoryCard.tsx      # Tarjeta de selección de categoría
+│   ├── GameCard.tsx          # Tarjeta de visualización de palabras
+│   ├── GameControls.tsx      # Botones de acción del juego
+│   ├── ResultsSummary.tsx    # Visualización de resultados
+│   ├── ScoreCounter.tsx      # Seguimiento de puntuación
+│   └── Timer.tsx             # Temporizador del juego
+├── constants/                # Constantes de la app
+│   └── theme.ts              # Colores, fuentes, tamaños
+├── data/                     # Datos del juego
+│   ├── categories.ts         # Gestión de categorías
+│   └── *.json                # Archivos de datos de palabras
+├── hooks/                    # Hooks personalizados de React
 │   ├── useFrameworkReady.ts
 │   ├── useGameHistory.ts
 │   └── useGameSettings.ts
-└── screens/              # Componentes de pantalla
-    └── GameScreen.tsx    # Pantalla principal del juego
+└── screens/                  # Componentes de pantalla
+    └── GameScreen.tsx        # Pantalla principal del juego
 ```
 
 ## 🎨 Sistema de Diseño
